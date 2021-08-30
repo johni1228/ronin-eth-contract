@@ -5,8 +5,7 @@ import "@axie/contract-library/contracts/lifecycle/Pausable.sol";
 import "./MainchainValidator.sol";
 import "../common/Validator.sol";
 import "../common/Registry.sol";
-
-
+                
 /**
  * @title GatewayStorage
  * @dev Storage of deposit and withdraw information.
